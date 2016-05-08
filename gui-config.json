@@ -1,11 +1,67 @@
 {
   "configs": [
     {
-      "server": "",
-      "server_port": 8388,
-      "password": "",
+      "server": "108.61.161.112",
+      "server_port": 10449,
+      "password": "zgd1993fq",
       "method": "aes-256-cfb",
       "remarks": "",
+      "auth": false
+    },
+    {
+      "server": "23.94.125.25",
+      "server_port": 10449,
+      "password": "zgd1993fq",
+      "method": "aes-256-cfb",
+      "remarks": "",
+      "auth": false
+    },
+    {
+      "server": "128.199.66.49",
+      "server_port": 10449,
+      "password": "zgd1993fq",
+      "method": "aes-256-cfb",
+      "remarks": "",
+      "auth": false
+    },
+    {
+      "server": "us1.wisheep.org",
+      "server_port": 5441,
+      "password": "lKlnxiap",
+      "method": "rc4-md5",
+      "remarks": "",
+      "auth": false
+    },
+    {
+      "server": "us3.wisheep.org",
+      "server_port": 5441,
+      "password": "lKlnxiap",
+      "method": "rc4-md5",
+      "remarks": "",
+      "auth": false
+    },
+    {
+      "server": "118.193.165.176",
+      "server_port": 20284,
+      "password": "4273812",
+      "method": "aes-256-cfb",
+      "remarks": "HK",
+      "auth": false
+    },
+    {
+      "server": "168.235.72.61",
+      "server_port": 20284,
+      "password": "4273812",
+      "method": "aes-256-cfb",
+      "remarks": "US-West",
+      "auth": false
+    },
+    {
+      "server": "23.94.228.147",
+      "server_port": 20284,
+      "password": "4273812",
+      "method": "aes-256-cfb",
+      "remarks": "US-East",
       "auth": false
     }
   ],
